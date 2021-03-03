@@ -1,4 +1,4 @@
 nodeid:a734dab07e74bf78
 bakerid:2359
 accountaddress:4PjqoEHm38A9fmZawVqjNjZ3CDppTgN3gzNiPiPaMEZEZnXU1B
-blockhash_addbaker:fdcb881c
+blockhash_addbaker:fdcb881c231992e0eed4b2c9225a29d17fa96a6af41c6f1608a3e7c5bcf8775c
